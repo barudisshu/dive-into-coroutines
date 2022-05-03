@@ -1,3 +1,3 @@
 
-rootProject.name = "deep-into-coroutines"
+rootProject.name = "dive-into-coroutines"
 
